@@ -22,4 +22,4 @@ O app segue a arquitetura **MVVM (Model-View-ViewModel)**, que separa as respons
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuusuario/focuslist.git
+   git clone https://github.com/afonsoazevedo1/focuslist.git
